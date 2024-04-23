@@ -7,7 +7,16 @@
 
 ### Im currently student at the 42 school, my goal is to mastering the cybersecurity branch and know everything about Ethical Hacking to becoming Professional Pentester.
 
+<div align="center">
+  <img src="https://media.wired.com/photos/59271004cefba457b079c01e/master/pass/white-gray-black-hat-hacker-158788611.jpg" width=50% >
+</div>
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+### Im currently learning the C and C++ programing language at 42
+
+
+### I use VScode for ide
 <!--
 **DyDaDo13/DyDaDo13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
