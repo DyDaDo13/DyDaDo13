@@ -13,10 +13,13 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-### Im currently learning the C and C++ programing language at 42
+### I love Kali Linux
 
+### Im currently learning the C and C++ programing language at 42
+[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=c++)](https://skillicons.dev)
 
 ### I use VScode for ide
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 <!--
 **DyDaDo13/DyDaDo13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
