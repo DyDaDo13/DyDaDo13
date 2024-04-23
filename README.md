@@ -1,5 +1,13 @@
-### Hi there 👋
+#### Hey Im DyDaDo13 💻
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<div align="center">
+<a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/clvc5r7q51951101p4bwexw3j8/stats?cursusId=21&coalitionId=318" alt="dylmarti's stats" /></a>
+</div>
+
+### Im currently student at the 42 school, my goal is to mastering the cybersecurity branch and know everything about Ethical Hacking to becoming Professional Pentester.
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <!--
 **DyDaDo13/DyDaDo13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
