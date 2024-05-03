@@ -13,10 +13,10 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-### Im currently learning the C and C++ programing language at 42
+### Language i use
 [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 
-### The ide i use
+### The IDE i use
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=vim)](https://skillicons.dev)
 
 <!--
